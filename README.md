@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://i.imgur.com/lL5bW0L.gif" style="">
-</div>
+</div> -->
 
 <h2 align="center">Holla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Warren here</h2>
 

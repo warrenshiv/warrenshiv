@@ -58,8 +58,6 @@
     alt="node.js">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
 </div>
-
-<h3>📱 Mobile</h3>
 <div> 
   <img 
     src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 

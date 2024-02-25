@@ -17,8 +17,7 @@
 - 👯 I’m looking to collaborate on **PHP and Web Projects.**
 - ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
 
-🛠  Tech Stack
--------
+## 🛠 Tech Stack
 
 <h3>🖥️ Front-End</h3>
 <div>
@@ -40,7 +39,7 @@
   <img 
     src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" 
     alt="angular">  
-</div>  
+</div>
 
 <h3> 
 <img width="20" height="20" align="center"
@@ -61,27 +60,32 @@
     alt="react native">    
 </div>
 
-<h2>📈 <strong>GitHub Analytics:</strong></h2>  
- 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=warrenshiv&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=warrenshiv&theme=react" />
+<h2>📈 <strong>GitHub Analytics:</strong></h2>
+
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=warrenshiv&count_private=true&show_icons=true&theme=react" /> <img width="425" src="https://streak-stats.demolab.com/?user=warrenshiv&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=warrenshiv&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrenshiv&layout=compact&langs_count=7&theme=dracula"/>
 
---- 
+[![warrenshiv's GitHub | Stats](https://stats.quine.sh/warrenshiv/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=warrenshiv)
+
+---
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=warrenshiv&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
+
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:**
+
 <p align="center">
 <a href="https://linkedin.com/in/warrenshiv" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="warrenshiv" /></a>
 <a href="mailto:warrenshiv@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="warrenshiv" /></a>
   <br>
-
-  

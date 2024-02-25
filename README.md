@@ -95,3 +95,12 @@
 </p>
 
 <br>
+
+
+ <h2> Thank you for visiting my profile </h2>                                                                                                                      
+ <table>
+        <tr>
+             <td><h3> Visitors: </h3></td>
+             <td><img src="https://profile-counter.glitch.me/warrenshiv/count.svg"></td>                                                                     
+        </tr>                                                                                             
+ </table>

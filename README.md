@@ -85,7 +85,13 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:**
 
-<p align="center">
-<a href="https://linkedin.com/in/warrenshiv" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="warrenshiv" /></a>
-<a href="mailto:warrenshiv@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="warrenshiv" /></a>
-  <br>
+
+<a href="https://twitter.com/mikongoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="warrenshiv" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/warrenshiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="warrenshiv" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21175658/mikongoi-warren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="warrenshiv" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jenin.kush.90/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="warrenshiv" height="30" width="40" /></a>
+<a href="https://www.instagram.com/warrentechwhiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="warrenshiv" height="30" width="40" /></a>
+<a href="https://discord.gg/warrentechwhiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="warrenshiv" height="30" width="40" /></a>
+</p>
+
+<br>

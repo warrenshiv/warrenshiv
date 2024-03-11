@@ -73,9 +73,13 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=warrenshiv&count_private=true&show_icons=true&theme=react" /> <img width="425" src="https://streak-stats.demolab.com/?user=warrenshiv&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=warrenshiv&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrenshiv&layout=compact&langs_count=7&theme=dracula"/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrenshiv&layout=compact&langs_count=7&theme=dracula" alt="GitHub Stats">
+    <a href="https://quine.sh?utm_source=widgets&utm_campaign=warrenshiv" target="_blank" rel="noopener noreferrer">
+        <img src="https://stats.quine.sh/warrenshiv/github?theme=dark" alt="warrenshiv's GitHub Stats">
+    </a>
+</div>
 
-[![warrenshiv's GitHub | Stats](https://stats.quine.sh/warrenshiv/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=warrenshiv)
 
 ---
 

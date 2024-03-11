@@ -79,6 +79,8 @@
 
 ---
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lp36guhywuchnxp65wemplkuv4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

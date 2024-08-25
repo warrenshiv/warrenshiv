@@ -10,7 +10,7 @@
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-- 👨‍💻 I'm a CS Pre-final graduate at Technical University Of Mombasa.
+- 👨‍💻  I'm a Computer Science graduate from the Technical University of Mombasa, awaiting my graduation.
 - 💻 Full-Stack Software Developer.
 - 🚀 Bridging the Gap Between Frontend and Backend Development
 - 🌱 I’m currently developing and learning **Python, JavaScript, Node.js, and other full-stack tools.**

@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/lL5bW0L.gif" style="">
 </div> -->
 
-<h2 align="center">Holla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Warren here</h2>
+<h2 align="center">Holla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Warren here a Full-Stack & Web3 Developer</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Greetings👋,+fellow+Tech+assassins👨‍💻+Welcome+to+my+Github+profile.)](https://git.io/typing-svg)
 
@@ -10,12 +10,23 @@
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-- 👨‍💻  I'm a Computer Science graduate from the Technical University of Mombasa, awaiting my graduation.
-- 💻 Full-Stack Software Developer.
-- 🚀 Bridging the Gap Between Frontend and Backend Development
-- 🌱 I’m currently developing and learning **Python, JavaScript, Node.js, and other full-stack tools.**
-- 👯 I’m looking to collaborate on **PHP and Web Projects.**
-- ⚡ Fun fact : **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
+- 🎓 Computer Science graduate from the Technical University of Mombasa (Dec 2024)
+- 💻 Versatile Full-Stack Developer with expertise in both traditional web and Web3 technologies
+- 🌐 Passionate about building the decentralized future through innovative blockchain solutions
+- 🚀 Specializing in bridging frontend user experiences with robust backend architectures
+
+## 🛠️ Current Focus
+
+- 🔗 Developing decentralized applications on Internet Computer Protocol
+- 🦀 Building with RUST, TypeScript (Azle), and Move language
+- 🧠 Expanding my knowledge in blockchain architecture and smart contract development
+- 🌱 Continuously enhancing my skills in Python, JavaScript, Node.js, and full-stack tools
+
+## 🤝 Collaboration
+
+- 👯 Open to collaborate on Web2 & Web3 projects
+- 💬 Interested in Python, PHP, React, and blockchain development opportunities
+- 🔍 Seeking roles where I can apply both traditional and decentralized web technologies
 
 ## 🛠 Tech Stack
 
@@ -23,7 +34,11 @@
   <table>
     <tr>
       <td><h3>Programming Languages</h3>
-  <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  <p align="left"> 
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
       </td>
       <td>
         <h3>Front-End Development</h3>
@@ -31,7 +46,12 @@
       </td>
       <td>
         <h3>Back-End Development</h3>
-  <p align="left"></a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+  <p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
+  <a href="https://internetcomputer.org/" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/44/1/internet-computer-icp-logo-png_seeklogo-444488.png" alt="Internet Computer Protocol" width="40" height="40"/> </a>
+  </p>
       </td>
     </tr>
     <tr>
@@ -43,6 +63,20 @@
         <h3>Backend as a Service(BaaS)</h3>
   <p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
       </td>
+      <td>
+        <h3>Web3 & Blockchain</h3>
+  <p align="left"> 
+    <a href="https://internetcomputer.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://images.seeklogo.com/logo-png/44/1/internet-computer-icp-logo-png_seeklogo-444488.png" alt="Internet Computer Protocol" width="40" height="40"/> 
+    </a>
+    <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/> 
+    </a>
+    <a href="https://aptos.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://images.seeklogo.com/logo-png/34/1/aptos-logo-png_seeklogo-348338.png" alt="aptos" width="40" height="40"/> 
+    </a>
+  </p>
+      </td>
     </tr>
     <tr>
       <td>
@@ -50,9 +84,44 @@
   <p align="left"> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
       </td>
       <td>
-        <h3>Frame-Work</h3>
-  <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
+        <h3>Frame-Works</h3>
+  <p align="left"> 
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://images.seeklogo.com/logo-png/27/1/django-logo-png_seeklogo-273036.png" alt="django" width="40" height="40"/> 
+    </a> 
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://images.seeklogo.com/logo-png/36/1/laravel-logo-png_seeklogo-363134.png" alt="laravel" width="40" height="40"/> 
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a>
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/> 
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://images.seeklogo.com/logo-png/27/1/flask-logo-png_seeklogo-273085.png" alt="flask" width="40" height="40"/> 
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+    </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+    </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+    </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+    </a>
+  </p>
       </td>
+    </tr>
     </tr>
     <tr>
       <td>
@@ -67,6 +136,12 @@
    </table>
 
 </p>
+
+## ⚡ Fun Facts
+
+- 💡 My GitHub code = 30% Me + 30% StackOverflow + 40% Google = 100% Solutions that work!
+- 🔄 Transitioned from Web2 to Web3 development in 2024, exploring the exciting frontier of decentralized apps
+- 🌍 Committed to creating technology that solves real-world problems through both centralized and decentralized approaches
 
 <h2>📈 <strong>GitHub Analytics:</strong></h2>
 
@@ -83,8 +158,6 @@
 </div>
 
 ---
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lp36guhywuchnxp65wemplkuv4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### ✍️ Random Dev Quote
 

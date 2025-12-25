@@ -98,24 +98,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=warrenshiv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrenshiv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=warrenshiv&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=warrenshiv&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=warrenshiv&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -164,7 +151,7 @@
 
 **Thank you for visiting my profile!**
 
-![Visitor Count](https://profile-counter.glitch.me/warrenshiv/count.svg)
+![](https://komarev.com/ghpvc/?username=warrenshiv&color=blueviolet&style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 

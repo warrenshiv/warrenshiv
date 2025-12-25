@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Warren%20Shiv&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
-<h2 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Warren - Full-Stack & Web3 Developer</h2>
+<h2 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Christopher Warren</h2>
 
 <div align="center">
   
@@ -103,6 +103,14 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=warrenshiv&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=warrenshiv&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---

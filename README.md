@@ -15,7 +15,7 @@
 ## 👨🏻‍💻 About Me
 
 🎓 Computer Science Graduate - Technical University of Mombasa (Dec 2024)  
-💻 Full-Stack Developer with Web2 & Web3 expertise  
+💻 Full-Stack Developer with Web2 & Web3 expertise   
 🌐 Building decentralized solutions on ICP, Ethereum & Aptos  
 🚀 Specializing in RUST, TypeScript, Move & Smart Contracts
 

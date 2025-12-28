@@ -21,7 +21,7 @@
 
 ### 🛠️ Current Focus
 
-- 🔗 Developing dApps on Internet Computer Protocol
+- 🔗 Developing dApps on Internet Computer Protocol 
 - 🦀 Building with RUST, TypeScript (Azle), and Move language
 - 🧠 Deep diving into blockchain architecture & smart contracts
 - 🌱 Mastering Python, JavaScript, Node.js & full-stack tools
